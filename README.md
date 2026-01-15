@@ -1,2 +1,6 @@
-# bt-custom-suv
-Custom Bluetooth machine designed from scratch
+### \# BT Machine
+
+### 
+
+### Custom Bluetooth machine designed entirely from scratch.
+
